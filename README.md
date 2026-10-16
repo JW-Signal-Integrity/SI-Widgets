@@ -1,4 +1,4 @@
-# MyWidgets
+# SI-Widgets
 
 A growing collection of lightweight, **single-file web tools** — no build step,
 no framework, no tracking. Each widget is one self-contained HTML file that
@@ -20,4 +20,4 @@ More widgets coming soon.
 
 The collection is served via GitHub Pages from the `main` branch root:
 
-**https://jw-joewei.github.io/MyWidgets/**
+**https://jw-signal-integrity.github.io/SI-Widgets/**
